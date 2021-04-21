@@ -1,0 +1,58 @@
+This project was made with Creative Commons images and 3d models. Here is a list of the resources I used.
+
+Set Icon is the Scarab from the Noun Project:
+https://thenounproject.com/term/scarab-beetle/1026155/
+
+3D Models
+*Monsters*
+Mummies: 						https://www.thingiverse.com/thing:3351225
+Abomination Mummies based on:	https://www.thingiverse.com/thing:4109230
+Sobek Mummy head:				https://www.thingiverse.com/thing:3044032
+Anubis Mummy Head: 				https://www.thingiverse.com/thing:2698757
+
+*Models used in tile images*
+Sarcophagus: 					https://sketchfab.com/3d-models/sarcophagus-294ffe3b55484018bfb5572470d44e3b
+Horus Statue:					https://sketchfab.com/3d-models/horus-statue-8ccec652c6894dc08654807b77911bbb
+Shawabti: 						https://sketchfab.com/3d-models/shawabti-a0ed30ac36b9422aafab4964ec3ed432
+Scarab:							https://sketchfab.com/3d-models/scarab-7a7e28a7cdb34c8486f68e73791f11be
+Jackal: 						https://sketchfab.com/3d-models/statuette-of-a-jackal-9aba58c860c7453c8bcea37dd614c288
+Sphinx: 						https://sketchfab.com/3d-models/crystal-palace-sphinx-d8993c32fab9429ab76a0ece0c16d3ed
+Pillars: 						https://sketchfab.com/3d-models/egyptian-pillar-2936467c17ae41c99a4baa9bdc1f1220
+Obelisk: 						https://sketchfab.com/3d-models/obelisk-0b4dc3d42d1b4ceb8a19a0001a427864
+Tomb Doors: 					https://sketchfab.com/3d-models/egyptian-false-door-about-2400-bce-ffe4b699e75849d59d8efe47d3538f03
+Throne: 						https://sketchfab.com/3d-models/kingtutchair-21cd6cb690c744a6a9f3f54b736c2caa
+Floor Torch: 					https://sketchfab.com/3d-models/torch-ec087726657f4aab823d9dab118f10f9
+Wall Torch: 					https://sketchfab.com/3d-models/torch-d47f1a85c4c846a392cc1d1afca15295
+Buildings around Bazaar: 		https://3dwarehouse.sketchup.com/model/e3f9029a415829a9b96aa5dc23c036c/Old-Arabic-Buildings?hl=en
+Market Baskets: 				https://sketchfab.com/3d-models/fruit-baskets-39f6c2fecc2e4cefbc3aef4bdcc4a62c
+Armchair 1: 					https://sketchfab.com/3d-models/armchair-aa996d92464a4d2bb5d84377944f6227
+Armchair 2: 					https://sketchfab.com/3d-models/old-armchair-textures-comparison-339ac3a31db046648463f5b5b852ad3e
+Table 1: 						https://sketchfab.com/3d-models/wolf-rokoko-table-64ae928c8889485caa0bce93b6226b04
+Table 2: 						https://sketchfab.com/3d-models/fantasy-table-bad7a35fc9ad4104849bed48bbef1121
+Table 3: 						https://sketchfab.com/3d-models/egyptian-table-e0c4de506dac4c05897eba02932b0c27
+Table 4: 						https://sketchfab.com/3d-models/wooden-table-acd1cef307b94803846d624b251a4e63
+Temple Stone: 					https://sketchfab.com/3d-models/hieroglyph-stone-pyramid-7a770008f6734b43bae9305100b73894
+Egyptian Dagger: 				https://sketchfab.com/3d-models/tutankhamuns-meteoric-dagger-1323-bce-505fdc27fc1a4fcaa0e2239fb4b36f99
+Bedouin Tent: 					https://sketchfab.com/3d-models/tent-arab-f3bb254a2fbe449e9450fe999a538d0a
+Arabic Lamp: 					https://sketchfab.com/3d-models/genie-lamp-1f517175aa1649e9baa72f964b938448
+Desk Lamp: 						https://sketchfab.com/3d-models/banker-lamp-9c97e41b7e4345ecb3796500e036eae7
+Mosque pillows and rugs: 		https://sketchfab.com/3d-models/ottoman-pillow-and-carpets-05a589b28b6946d6912160f9075a2534
+Bookshelf: 						https://sketchfab.com/3d-models/dusty-old-bookshelf-free-6c5ac2547db34c3c81b2e4808b000386
+Shovel: 						https://sketchfab.com/3d-models/dirty-shovel-7cf472435d454bbcad276fa4fc7ca832
+Wooden Crate: 					https://sketchfab.com/3d-models/texture-ca37b2a37380441d91bbdd54be53a40e
+Desert Terrain: 				https://sketchfab.com/3d-models/tec-calidious-desert-99865b3ea39040b18786b8654921a75d
+Curtains: 						https://sketchfab.com/3d-models/curtain-fabric-with-organic-pattern-0d672a10acf94737ba672b4f747f9c97
+Papyrus Scroll: 				https://sketchfab.com/3d-models/papyrus-4b48ee461fcb41f4903123852510265f
+Consulate Desk: 				https://sketchfab.com/3d-models/old-desk-7b690bb22d874444af290267438fb9f8
+Consulate Cabinet: 				https://sketchfab.com/3d-models/office-file-cabinet-prateleira-de-escritorio-e2c8a5b463bf40548b7de0c142624ba4
+
+Images (Used for textures in models)
+
+https://commons.wikimedia.org/wiki/File:Turkish_-_Prayer_Rug_with_Floral_and_Ornamental_Designs_-_Walters_814_(2).jpg
+https://pixabay.com/photos/tiles-ceramic-kairouan-tunisia-1064625/
+https://pixabay.com/photos/portugal-porto-tiles-ceramic-1350643/
+https://www.flickr.com/photos/pareeerica/2788274719
+https://pxhere.com/en/photo/1369732
+https://pixy.org/6399830/
+https://www.the3rdsequence.com/texturedb/texture/85/travertine+stone/
+https://www.flickr.com/photos/smerikal/6235305560/
